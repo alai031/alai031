@@ -1,5 +1,5 @@
 # 💫 About Me:
-I recently graduated from the University of California Riverside in June 2023 with a B.S. in Computer Science. <br>I am currently seeking internships and job opportunities related to web development or software development.
+I recently obtained a B.S. in Computer Science from the University of California Riverside (June 2023). <br>I am currently seeking internships and job opportunities related to web development or software development.
 
 
 ## 🌐 Socials:
