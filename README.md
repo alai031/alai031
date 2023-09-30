@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭I recently obtained my Bachelor's degree in Computer Science from the University of California Riverside (June 2023).<br>⚡I am currently seeking internships and job opportunities related to web development or software development.
+🔭I recently obtained my Bachelor's degree in Computer Science from the University of California Riverside (June 2023).<br>⚡I am currently seeking job opportunities related to software development or web development.
 
 
 # 🌐 Socials
