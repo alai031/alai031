@@ -18,7 +18,7 @@
 - Constructed user registration and login features using MongoDB as the database
 - Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
 - Implemented editing, searching, and reacting to messages functionalities
-- 
+  
 ### [Chess](https://github.com/alai031/Chess)
 
 - Developed a chess app using React, JavaScript, HTML, and CSS
