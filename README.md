@@ -11,6 +11,14 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Projects
+### [Chatboxd](https://github.com/UCR-CS110-S23/project-chatboxd)
+
+- Developed a messaging app where users can join rooms to view and send messages in real-time
+- Used React and Javascript for the front-end, Node.js and Express.js for the back-end
+- Constructed user registration and login features using MongoDB as the database
+- Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
+- Implemented editing, searching, and reacting to messages functionalities
+- 
 ### [Chess](https://github.com/alai031/Chess)
 
 - Developed a chess app using React, JavaScript, HTML, and CSS
@@ -24,14 +32,6 @@
 - Allowed program to pick answers randomly from predefined list of words
 - Configured game to display the characters a player has attempted so far
 - Arranged app to display another part of the stick figure every time a wrong guess is made
-  
-### [Chatboxd](https://github.com/UCR-CS110-S23/project-chatboxd)
-
-- Developed a messaging app where users can join rooms to view and send messages in real-time
-- Used React and Javascript for the front-end, Node.js and Express.js for the back-end
-- Constructed user registration and login features using MongoDB as the database
-- Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
-- Implemented editing, searching, and reacting to messages functionalities
 
 ### [TicTacToe](https://github.com/alai031/TicTacToe)
 
