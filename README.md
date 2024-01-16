@@ -19,21 +19,21 @@
 - Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
 - Implemented editing, searching, and reacting to messages functionalities
   
-### [Chess](https://github.com/alai031/Chess)
+### [Chess](https://chess-nine-lake.vercel.app/)
 
 - Developed a chess app using React, JavaScript, HTML, and CSS
 - Constructed the chessboard using React’s chessboard component
 - Utilized JavaScript’s chess library for chess move validation, piece movement, and checkmate detection
 - Implemented option to play against AI or another person
 
-### [Hangman](https://github.com/alai031/Hangman)
+### [Hangman](https://hangman-five-alpha.vercel.app/)
 
 - Created the Hangman game using React, JavaScript, HTML, and CSS
 - Allowed program to pick answers randomly from predefined list of words
 - Configured game to display the characters a player has attempted so far
 - Arranged app to display another part of the stick figure every time a wrong guess is made
 
-### [TicTacToe](https://github.com/alai031/TicTacToe)
+### [TicTacToe](https://tic-tac-toe-five-blue.vercel.app/)
 
 - Constructed a Tic Tac Toe game using HTML, CSS, JavaScript, and jQuery
 - Designed a scoreboard that keeps track of each player’s wins
