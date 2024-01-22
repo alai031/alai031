@@ -34,7 +34,7 @@
 
 ### [Hangman](https://hangman-five-alpha.vercel.app/)
 
-- Created the Hangman game using React, JavaScript, HTML, and CSS
+- Created the hangman game using React, JavaScript, HTML, and CSS
 - Allowed program to pick answers randomly from predefined list of words
 - Configured game to display the characters a player has attempted so far
 - Arranged app to display another part of the stick figure every time a wrong guess is made
