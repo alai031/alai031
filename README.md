@@ -39,11 +39,4 @@
 - Configured game to display the characters a player has attempted so far
 - Arranged app to display another part of the stick figure every time a wrong guess is made
 
-### [TicTacToe](https://tic-tac-toe-five-blue.vercel.app/)
-
-- Constructed a Tic Tac Toe game using HTML, CSS, JavaScript, and jQuery
-- Designed a scoreboard that keeps track of each player’s wins
-- Created a timer that counts down the number of seconds left for a player’s turn
-- Implemented the option to play against a simple AI
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
