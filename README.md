@@ -18,6 +18,12 @@
 - Constructed user registration and login features using MongoDB as the database
 - Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
 - Implemented editing, searching, and reacting to messages functionalities
+
+### [Portfolio](https://alai031.github.io/)
+
+- Constructed a personal website portfolio using Next.js and Tailwind CSS
+- Implemented responsive web design to provide optimal viewing across all devices
+- Enabled smooth scrolling to different sections of the webpage
   
 ### [Chess](https://chess-nine-lake.vercel.app/)
 
