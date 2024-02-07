@@ -13,12 +13,11 @@
 # Projects
 ### [Game Stats](https://game-stats-website.web.app/)
 
--  Designed a dynamic web application centered around user-generated gaming profiles, showcasing
-expertise in various games
+-  Utilized JavaScript and Tailwind CSS to architect a dynamic web application, empowering users to seamlessly craft gaming profiles that vividly display their rankings across a variety of games
+-  Orchestrated the seamless integration of user registration and authentication through Firebase, ensuring
+a secure and user-friendly experience
 -  Engineered an intuitive search functionality, empowering users to effortlessly explore and connect with
 other gaming enthusiasts by searching and viewing their profiles
-- Orchestrated the seamless integration of user registration and authentication through Firebase, ensuring
-a secure and user-friendly experience
 - Leveraged API requests and keys to dynamically fetch and display real-time game data
 
 ### [Chatboxd](https://github.com/UCR-CS110-S23/project-chatboxd)
