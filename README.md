@@ -11,32 +11,43 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Projects
+### [Game Stats](https://game-stats-website.web.app/)
+
+-  Designed a dynamic web application centered around user-generated gaming profiles, showcasing
+expertise in various games
+-  Engineered an intuitive search functionality, empowering users to effortlessly explore and connect with
+other gaming enthusiasts by searching and viewing their profiles
+- Orchestrated the seamless integration of user registration and authentication through Firebase, ensuring
+a secure and user-friendly experience
+- Leveraged API requests and keys to dynamically fetch and display real-time game data
+
 ### [Chatboxd](https://github.com/UCR-CS110-S23/project-chatboxd)
 
-- Developed a messaging app where users can join rooms to view and send messages in real-time
-- Used React and Javascript for the front-end, Node.js and Express.js for the back-end
-- Constructed user registration and login features using MongoDB as the database
-- Utilized Socket.IO to create chat rooms that allow messages to be sent between users in the room
-- Implemented editing, searching, and reacting to messages functionalities
+- Developed a messaging app that enables users to seamlessly join dynamic chat rooms for real-time
+message interaction
+- Leveraged React and JavaScript to craft an intuitive and responsive front-end, while implementing a
+robust back-end infrastructure using Node.js and Express.js
+- Constructed user registration and login features, integrating MongoDB as the database for secure and
+efficient data management
+-  Utilized Socket.IO to create chat rooms, fostering seamless communication with real-time message
+transmission among users in the room
+- Implemented advanced functionalities such as message editing, searching, and reaction features,
+enhancing the overall user experience
 
 ### [Portfolio](https://alai031.github.io/)
 
-- Constructed a personal website portfolio using Next.js and Tailwind CSS
-- Implemented responsive web design to provide optimal viewing across all devices
-- Enabled smooth scrolling to different sections of the webpage
+-  Constructed a professional portfolio website utilizing Next.js and Tailwind CSS, showcasing a dynamic
+and visually appealing design
+- Executed responsive web design principles, ensuring an optimal viewing experience across various
+devices to enhance user accessibility
+-  Incorporated smooth scrolling functionality, enhancing navigation and providing a user-friendly
+interface for seamless exploration of different sections on the webpage
   
 ### [Chess](https://chess-nine-lake.vercel.app/)
 
 - Developed a chess app using React, JavaScript, HTML, and CSS
-- Constructed the chessboard using React’s chessboard component
-- Utilized JavaScript’s chess library for chess move validation, piece movement, and checkmate detection
-- Implemented option to play against AI or another person
-
-### [Hangman](https://hangman-five-alpha.vercel.app/)
-
-- Created the hangman game using React, JavaScript, HTML, and CSS
-- Allowed program to pick answers randomly from predefined list of words
-- Configured game to display the characters a player has attempted so far
-- Arranged app to display another part of the stick figure every time a wrong guess is made
+- Constructed an aesthetically pleasing chessboard, employing React’s specialized chessboard component for a seamless design
+- Utilized Javascript’s chess library to implement sophisticated features such as move validation, precise piece movement, and accurate checkmate detection, ensuring a flawless gameplay experience
+- Introduced a customizable gameplay experience by integrating an option for users to engage in matches against either an artificial intelligence adversary or a fellow player
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
