@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭I recently obtained my Bachelor's degree in Computer Science from the University of California Riverside (June 2023).<br>⚡I am currently seeking software development job opportunities.
+⚡I am currently a software engineer at Mission Support and Test Services, LLC. <br>🔭I obtained my Bachelor's degree in Computer Science from the University of California Riverside.
 
 
 # 🌐 Socials
